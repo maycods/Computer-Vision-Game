@@ -1,0 +1,8 @@
+# Custom tkinter library
+customtkinter==5.2.2
+
+# OpenCV library for image processing
+opencv-python==4.5.4.60
+
+# Pillow library for image handling
+pillow==8.4.0
