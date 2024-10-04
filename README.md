@@ -34,19 +34,19 @@ This is the landing Page where we can select filters or play with the invisibili
 
 **Mode 1:**
 <p align="center">
-  <img width="50%" src="mode1.png" >
+  <img width="20%"   src="mode1.png" >
 </p>
 
 **Mode 2:**
 
 <p align="center">
-  <img width="50%" src="mode2.png" >
+  <img width="20%" src="mode2.png" >
 </p>
 
 **Mode 3:**
 
 <p align="center">
-  <img width="50%" src="mode3.png" >
+  <img width="20%" src="mode3.png" >
 </p>
 
 
