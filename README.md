@@ -49,6 +49,8 @@ This is the landing Page where we can select filters or play with the invisibili
   <img width="20%" src="mode3.png" >
 </p>
 
+## Acknowledgement
+Special thanks to @manel15279 and @sarahfrk for the contribution
 
 ## License 📜
 
